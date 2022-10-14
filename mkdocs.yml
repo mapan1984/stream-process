@@ -1,0 +1,51 @@
+site_name: 流式计算与 Flink
+site_url: https://mapan1984.github.io/stream-process/
+repo_url: https://github.com/mapan1984/stream-process/
+site_description: 流式计算与 Flink
+site_author: mapan
+
+nav:
+  - 0. 流式计算: 'README.md'
+  - 1. flink: 'flink.md'
+  - 2. 101: '101.md'
+  - 3. 102: '102.md'
+
+theme:
+  # name: readthedocs
+  name: material
+  language: 'zh'
+  features:
+    - navigation.expand
+    - navigation.top
+  # palette:
+  #   scheme: slate
+  #   primary: blue grey
+  #   accent: deep orange
+  palette: 
+    - scheme: default
+      primary: blue grey
+      accent: deep orange
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate 
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+
+plugins:
+  # - section-index
+  - search:
+      lang:
+        - en
+        - ja
+
+extra_css: 
+  - styles/extra.css
+
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
+  - pymdownx.snippets
+  - tables
