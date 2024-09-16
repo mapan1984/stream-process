@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://mapan1984.github.io/stream-process/</loc>
+         <lastmod>2024-09-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://mapan1984.github.io/stream-process/101/</loc>
+         <lastmod>2024-09-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://mapan1984.github.io/stream-process/102/</loc>
+         <lastmod>2024-09-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://mapan1984.github.io/stream-process/flink/</loc>
+         <lastmod>2024-09-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://mapan1984.github.io/stream-process/line/</loc>
+         <lastmod>2024-09-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
